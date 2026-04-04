@@ -1,0 +1,111 @@
+# 🌸 Portfolio Makeup Artist — Emmanuelle
+
+> Portfolio éditorial one-page · **Makeup Artist basée à Paris**
+
+🔗 **[Voir le site en ligne](https://burdyymua.github.io/Burdyymua.portfolio.com/)**
+
+---
+
+## ✨ Présentation
+
+Portfolio visuel conçu pour présenter des travaux de maquillage éditoriaux et artistiques.
+
+**Bio :** Formée aux arts du maquillage à Paris, je collabore avec des photographes, directeurs artistiques et marques pour créer des looks qui transcendent la beauté classique. Mon univers mêle audace chromatique, précision technique et sensibilité artistique — du plus épuré au plus graphique.
+
+---
+
+## 🗂️ Sections du portfolio
+
+| Section | Contenu | Photos |
+|---|---|---|
+| **Hero** | Photo principale · *L'art du visage* | 1 |
+| **Éditions récentes** | Grande photo + 4 vignettes | 5 |
+| **Campagne plein écran** | Image éditoriale pleine largeur | 1 |
+| **Détails & Beauté** | Close-ups · 3 colonnes | 3 |
+| **À propos** | Bio + stats (8 ans · 120+ projets · 30+ marques) | — |
+| **Services** | 4 prestations détaillées | — |
+| **Contact** | Email · Instagram · Téléphone | — |
+
+**Total : 9 emplacements photos**
+
+---
+
+## 💼 Services proposés
+
+**01 — Éditorial & Mode**
+Shooting pour magazines, lookbooks et campagnes. Collaboration étroite avec la direction artistique.
+
+**02 — Beauté & Campagne**
+Maquillage technique pour packshots beauté, films et contenus digitaux de marques cosmétiques.
+
+**03 — Défilés & Backstage**
+Création de looks forts pour la scène, gestion des équipes en backstage et fashion weeks.
+
+**04 — Portrait & Red Carpet**
+Maquillage pour portraits presse, couvertures de magazines et cérémonies.
+
+---
+
+## 🛠️ Stack technique
+
+| Élément | Détail |
+|---|---|
+| **Langage** | HTML5 · CSS3 · JavaScript Vanilla |
+| **Fonts** | Playfair Display + DM Sans (Google Fonts) |
+| **Layout** | CSS Grid asymétrique |
+| **Animations** | Scroll reveal · Curseur personnalisé · Hover zoom |
+| **Dépendances** | Aucune — fichier unique auto-suffisant |
+| **Hébergement** | GitHub Pages |
+
+---
+
+## 🎨 Design system
+
+```
+Couleurs
+├── --rose-deep  : #c4606e  (accent principal)
+├── --rose       : #e8a0a8  (rose clair)
+├── --blush      : #f5dde0  (fond sections)
+├── --cream      : #fdf8f6  (fond principal)
+├── --dark       : #1e1416  (texte)
+└── --muted      : #8a6b6e  (texte secondaire)
+
+Typographie
+├── Playfair Display — titres & citations (serif élégant)
+└── DM Sans — corps de texte (sans-serif moderne)
+```
+
+---
+
+## 📁 Structure du repo
+
+```
+Burdyymua.portfolio.com/
+├── index.html      → Portfolio complet (fichier unique)
+└── README.md       → Ce fichier
+```
+
+---
+
+## 🚀 Déploiement
+
+Le site est déployé automatiquement via **GitHub Pages** à chaque push sur la branche `main`.
+
+Pour mettre à jour le site :
+1. Modifier `index.html`
+2. `git add . && git commit -m "update" && git push`
+3. Le site se met à jour en 1–2 minutes
+
+---
+
+## 📬 Contact
+
+| Canal | Lien |
+|---|---|
+| 📧 Email | [burdyymua@gmail.com](mailto:burdyymua@gmail.com) |
+| 📸 Instagram | [@_burdyy](https://instagram.com/_burdyy) |
+| 📞 Téléphone | +33 7 62 35 87 03 |
+
+---
+
+*© 2026 — Emmanuelle Jippé · Makeup Artist · Paris*
